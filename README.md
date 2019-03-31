@@ -5,3 +5,5 @@ This repository has the purpose to store exercise codes to an <a href="https://w
 #### Exercise 1 - A NodeJS Server to Handle Requests
 This exercise has the purpose to create a simple HTTP Server and handle requests. The "/" URL shows a simple input form in browser and after fill and submit, the value inputed is showed on console with `console.log`.
 
+#### Exercise 2 - Using expresJS to Handle Requests
+Handle requests like exercise 1 but with expressJS, maping urls with event triggers instead using conditional structures.

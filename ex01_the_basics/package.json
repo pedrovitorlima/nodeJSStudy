@@ -1,0 +1,12 @@
+{
+  "name": "ex01_the_basics",
+  "version": "1.0.0",
+  "description": "First exercise",
+  "main": "routes.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Pedro Rodrigues",
+  "license": "ISC"
+}
